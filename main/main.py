@@ -44,10 +44,6 @@ class User:
         self.Realization = person
 
 
-class Car:
-    pass
-
-
 if __name__ == "__main__":
     print("main start")
     student = Student()
@@ -59,4 +55,3 @@ if __name__ == "__main__":
     user = User(person=teacher)
     user.Realization.create("Vasia", 40, "Algebra")
     user.Realization.method_print()
-
