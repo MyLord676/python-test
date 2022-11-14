@@ -44,6 +44,10 @@ class User:
         self.Realization = person
 
 
+class Car:
+    pass
+
+
 if __name__ == "__main__":
     print("main start")
     student = Student()
