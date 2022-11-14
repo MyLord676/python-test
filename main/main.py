@@ -57,5 +57,11 @@ if __name__ == "__main__":
     user.Realization.method_print()
 
 
+<<<<<<< HEAD
 class Car:
+=======
+
+
+class Ma:
+>>>>>>> 076189604633a77c29d155d14dbaf9d0e98a8504
     pass
